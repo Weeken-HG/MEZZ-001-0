@@ -1,0 +1,9 @@
+.\ili9328.o: ..\drive\ili9328.c
+.\ili9328.o: D:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\1.4.0\Device\Include\stm32f0xx.h
+.\ili9328.o: D:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\core_cm0.h
+.\ili9328.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\ili9328.o: D:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\cmsis_compiler.h
+.\ili9328.o: D:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\cmsis_armcc.h
+.\ili9328.o: D:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\1.4.0\Device\Include\system_stm32f0xx.h
+.\ili9328.o: ..\drive\ili9328.h
+.\ili9328.o: ..\drive\ascii.h
